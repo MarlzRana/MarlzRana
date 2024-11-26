@@ -1,4 +1,4 @@
-<h1 align="center">I'm <a href="https://github.com/MarlzRana">Marlin Ranasinghe <a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">I'm <a href="https://www.linkedin.com/in/marlin-ranasinghe/">Marlin Ranasinghe <a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 Hey, I'm Marlin! I am a Computer Science student with a passion for efficient computation. I particularly enjoy innovating and taking an everyday problem and solving it from a new angle through an axiomatic approach.
 

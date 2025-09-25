@@ -1,6 +1,6 @@
 <h1 align="center">I'm <a href="https://www.linkedin.com/in/marlin-ranasinghe/">Marlin Ranasinghe <a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-Hey, I'm Marlin! I am a Software Engineer @ [Starling Bank](https://github.com/starlingbank) with a passion for efficient computation. I particularly enjoy innovating and taking an everyday problem and solving it from a new angle through an axiomatic approach.
+Hey, I'm Marlin! I am a Machine Learning Engineer @ [Starling](https://github.com/starlingbank)! I particularly enjoy innovating and taking an everyday problem and solving it from a new angle through an axiomatic approach.
 
 Please feel free to contact and connect with me. I love talking to people within the industry to hear their stories and experience and love giving advice/guidance where I can!
 
